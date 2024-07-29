@@ -4,7 +4,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import 'Custom_app_bar.dart';
 import 'note_list_view.dart';
-import 'note_view_item.dart';
 
 class NotesViewBody extends StatelessWidget {
   const NotesViewBody({super.key});
